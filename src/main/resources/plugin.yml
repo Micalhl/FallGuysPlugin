@@ -1,0 +1,15 @@
+name: FallGuys
+version: ${project.version}
+main: net.mcfire.fallguys.FallGuys
+load: STARTUP
+api-version: 1.13
+depend:
+  - 'Citizens'
+  - 'CustomEntityFramework'
+  - 'SuperVanish'
+  - 'ProtocolLib'
+  - 'PlaceholderAPI'
+#  - 'WorldEdit'
+commands:
+  fstart:
+    description: "强制开始！"

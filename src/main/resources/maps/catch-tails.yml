@@ -1,0 +1,5 @@
+spawn:
+  overview: fallguys,-171,175,468,316,50
+  game:
+    tails: fallguys,-147,155,465
+    tailless: fallguys,-147,155,526,180,0

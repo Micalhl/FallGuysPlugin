@@ -1,0 +1,13 @@
+spawn:
+  overview: fallguys,-87,178,200
+  team-1: fallguys,-113,161,205
+  team-2: fallguys,-113,161,241,180,0
+  football: fallguys,-113,177,223
+
+gates:
+  team-1:
+    - '-127,152,168'
+    - '-99,157,184'
+  team-2:
+    - '-126,152,263'
+    - '-100,157,277'

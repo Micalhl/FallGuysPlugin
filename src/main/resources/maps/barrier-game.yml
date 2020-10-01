@@ -1,0 +1,9 @@
+spawn:
+  overview: fallguys,-630,207,-99,64,54
+  game: fallguys,-643,184,-123
+
+barriers:
+  - 'fallguys,-638,186,-81'
+  - 'fallguys,-648,186,-81'
+  - 'fallguys,-638,186,-73'
+  - 'fallguys,-648,186,-73'

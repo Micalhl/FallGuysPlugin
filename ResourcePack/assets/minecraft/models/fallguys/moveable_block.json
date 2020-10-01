@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "fallguys/moveable_block",
+		"particle": "fallguys/moveable_block"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, -8],
+			"to": [24, 24, 24],
+			"faces": {
+				"north": {"uv": [8, 6, 16, 12], "texture": "#0"},
+				"east": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 6], "texture": "#0"},
+				"up": {"uv": [9, 9, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-9, 0, -9],
+			"to": [25, 11, 25],
+			"faces": {
+				"north": {"uv": [0, 13.25, 8.5, 16], "texture": "#0"},
+				"east": {"uv": [0, 13.25, 8.5, 16], "texture": "#0"},
+				"south": {"uv": [0, 13.25, 8.5, 16], "texture": "#0"},
+				"west": {"uv": [0, 13.25, 8.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 8.5, 8.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 8.5, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [-0.75, -19, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

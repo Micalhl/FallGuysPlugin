@@ -1,0 +1,8 @@
+spawn:
+  overview: fallguys,299,230,43,45,58
+  game: fallguys,252,161,-3
+water:
+  pos1: fallguys,317,140,-29
+  pos2: fallguys,234,140,213
+  height: 60
+  rise-distance: 0.03

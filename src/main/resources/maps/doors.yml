@@ -1,0 +1,35 @@
+spawn:
+  overview: fallguys,244,164,569,138,24
+  game: fallguys,226,160,489
+# door goes in positive Z!!!
+material: 'PINK_WOOL'
+open-count: [4,4,2,2,1]
+door-size: [4,4,1]
+locations:
+  'row-0':
+    - 'fallguys,214,160,501'
+    - 'fallguys,218,160,501'
+    - 'fallguys,222,160,501'
+    - 'fallguys,226,160,501'
+    - 'fallguys,230,160,501'
+    - 'fallguys,234,160,501'
+  'row-1':
+    - 'fallguys,214,160,515'
+    - 'fallguys,218,160,515'
+    - 'fallguys,222,160,515'
+    - 'fallguys,226,160,515'
+    - 'fallguys,230,160,515'
+    - 'fallguys,234,160,515'
+  'row-2':
+    - 'fallguys,218,160,529'
+    - 'fallguys,222,160,529'
+    - 'fallguys,226,160,529'
+    - 'fallguys,230,160,529'
+  'row-3':
+    - 'fallguys,218,160,543'
+    - 'fallguys,222,160,543'
+    - 'fallguys,226,160,543'
+    - 'fallguys,230,160,543'
+  'row-4':
+    - 'fallguys,222,160,557'
+    - 'fallguys,226,160,557'

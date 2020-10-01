@@ -1,0 +1,3 @@
+api:
+  endpoint: 'http://localhost:8111'
+  key: ''

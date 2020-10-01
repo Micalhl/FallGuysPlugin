@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fallguys/water_surface",
+		"particle": "fallguys/water_surface"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 0, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 8, -8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -10.5, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

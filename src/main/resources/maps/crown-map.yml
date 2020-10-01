@@ -1,0 +1,11 @@
+spawn:
+  overview: fallguys,-477,269,414,60,48
+  game: fallguys,-507,180,274
+crown:
+  location: fallguys,-507,236,492
+  radius: 5
+
+barriers:
+  - 'fallguys,-507,184,336'
+  - 'fallguys,-520,193,354'
+  - 'fallguys,-493,194,356'

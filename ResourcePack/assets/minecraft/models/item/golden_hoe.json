@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/golden_hoe"
+  },
+  "overrides": [
+  	{"predicate": {"custom_model_data":1}, "model":"fallguys/big_ball"},
+    {"predicate": {"custom_model_data":2}, "model":"fallguys/water_surface"},
+    {"predicate": {"custom_model_data":3}, "model":"fallguys/pink_barrier_rotator"},
+    {"predicate": {"custom_model_data":4}, "model":"fallguys/pink_barrier"},
+    {"predicate": {"custom_model_data":5}, "model":"fallguys/tail"},
+    {"predicate": {"custom_model_data":6}, "model":"fallguys/football"},
+    {"predicate": {"custom_model_data":7}, "model":"fallguys/moveable_block"}
+  ]
+}

@@ -1,0 +1,23 @@
+maintenance-mode: true
+
+wait-location: fallguys,16.5,185,-3.5,270,0
+
+explode:
+  radius: 4.0
+  side-force: 2
+  y-force: .3
+
+eliminate:
+  spawn: world,-1,65,18
+  display:
+    start: world,-25,58,39
+    length: 13
+    height: 6
+
+reset:
+  location: world,-1,65,18
+  worlds:
+    - 'fallguys'
+
+award:
+  location: world,-6,69,196,0,-6
